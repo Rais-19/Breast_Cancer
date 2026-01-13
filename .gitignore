@@ -1,0 +1,18 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models and data
+models/
+*.sav
+*.pkl
+data/
+*.csv
+
+# System files
+.DS_Store
+.vscode/
